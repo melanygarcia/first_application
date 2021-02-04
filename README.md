@@ -1,6 +1,6 @@
 # first_application
 
-A new Flutter project at melany and aledaas.
+A new Flutter project at Melany and Aledaas.
 
 ## Getting Started
 
